@@ -1,1 +1,1 @@
-<img width="100%" height="auto" alt="market blossoms GIF" src="https://github.com/user-attachments/assets/837bd0da-d1b5-4adf-a156-d43988cb41e9" style="max-width: 480px; display: block;" />
+[![GitHub Readme Profile](https://github-readme-profile-delta.vercel.app/api?username=stysus&theme=monochrome-dark-gradient&border_width=1&border_radius=5&photo_quality=100&revert=true&hide_border=false)](https://bit.ly/gh-readme-profile)
